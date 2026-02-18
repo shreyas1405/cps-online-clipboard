@@ -4,6 +4,10 @@
 [![Python](https://img.shields.io/badge/Python-3.9+-yellow.svg)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
+
+## 👁️ View Live
+
+[**Try it now!**](https://cps-online-clipboard.onrender.com) - Visit the live demo to start sharing instantly.
 **CPS (Copy Paste Share)** is a lightweight, temporary online clipboard designed for quick and easy sharing of text, images, and files across different devices. No accounts, no history, just a one-time 6-character code to send your data in seconds.
 
 ## ✨ Features
